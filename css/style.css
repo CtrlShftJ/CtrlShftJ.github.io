@@ -39,8 +39,15 @@ body {margin:20px; padding:20px;}
 .menu {font-family:"verdana", cursive; font-size:20px; color:black; background-color:rgb(193, 119, 103);}
 
 
-/*  */
+/* css pour biographie */
+.titre {font-family:georgia, cursive; font-size:2em; color:black; 
+			background-color:rgb(89, 169, 106); height:70px; width:500px; border:3px solid black; padding:20px;}
 
+.texte {font-family:verdana, cursive; font-size: 1.2em; color:black; 
+			background-color:rgb(89, 169, 106); height:500px; width:700px; border:3px solid black; padding:20px;}
+		
+#bio {font-size:2em; font-family:georgia; color:black; 
+			background-color:rgb(89, 169, 106); height:40px; width:500px; border:3px solid black; padding:20px;}
 
 
 

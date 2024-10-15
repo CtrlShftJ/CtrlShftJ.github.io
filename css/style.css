@@ -1,12 +1,19 @@
- .index {font-size:20px; font-family:verdana; 
+/* css des index (sans la couleur des boites dans lesquelles elles sont */
+.index {font-size:20px; font-family:verdana; 
 	height:15px; width:400px; border:3px solid black; padding:20px;}
 
 body {margin:20px; padding:20px;}
 
 
-p {color:black; font-family:"verdana", cursive;} 
+/* css pour le voyage */
+.bullet-point {font-family:"verdana", cursive; color:black; font-size:1.8em; 
+						      width: 900px;
+						      height:10pk;
+						      border:3px solid black;
+						      background-color:white;
+						      }
 
-h1 {color:black; font-family:"georgia", monospace;}
+.mini-titres {font-family:"georgia", cursive; color:black; font-size:1.7em;}
 
 
 

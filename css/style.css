@@ -28,6 +28,19 @@ body {margin:20px; padding:20px;}
 
 .titre {font-family:"georgia", monospace;}
 
+.option { background-color: rgb(193, 119, 103); font-family:"georgia", "verdana", cursive; color:black;
+                    
+            width:250px;
+            height:5pk;
+            border:2px solid black;
+                    
+                    }
+
+.menu {font-family:"verdana", cursive; font-size:20px; color:black; background-color:rgb(193, 119, 103);}
+
+
+/*  */
+
 
 
 
